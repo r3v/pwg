@@ -31,3 +31,6 @@ It has been updated with 2.0 to allow the user to customize the forumla using a 
   can be changed there. Use -f to override it for a single run, e.g.:
        pwg.pl -f w-W-c!nn
 ```
+
+### TIPS:
+- I don't always like the words suggested by the file I'm pulling from, so I'll call this using `repeat` to get a few suggestions. e.g. `repeat 10 pwg.pl`.
